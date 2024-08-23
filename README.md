@@ -18,7 +18,7 @@ Ps. Этот проект был создан, во-первых, для нар�
 
 1. **Клонируйте репозиторий**:
     ```bash
-    https://github.com/Robert-Vardanyan/2048.git
+    git clone https://github.com/Robert-Vardanyan/2048.git
     cd 2048
     ```
 
