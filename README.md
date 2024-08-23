@@ -62,8 +62,8 @@ Ps. Этот проект был создан, во-первых, для нар�
 
   <table>
     <tr>
-      <td><img src="https://github.com/user-attachments/assets/464267ef-cc93-4d82-afa5-ac783eae5944" alt="График 1" width="450"/></td>
-      <td><img src="https://github.com/user-attachments/assets/fe598f6a-1391-4b96-9ab9-425fda0f1802" alt="График 2" width="450"/></td>
       <td><img src="https://github.com/user-attachments/assets/0287da45-25d7-47b9-8a35-3dff0de91a14" alt="График 3" width="450"/></td>
+      <td><img src="https://github.com/user-attachments/assets/fe598f6a-1391-4b96-9ab9-425fda0f1802" alt="График 2" width="450"/></td>
+      <td><img src="https://github.com/user-attachments/assets/464267ef-cc93-4d82-afa5-ac783eae5944" alt="График 1" width="450"/></td>
     </tr>
   </table>
